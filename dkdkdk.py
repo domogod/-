@@ -23,9 +23,9 @@ while True:
     else :
         print("정답")
         ok_list.append(ans)
-        for i if range(len(word)):
-            if word[i] ==ans :
-                word_show = word_show[:i] + ans +word_show[i+:11]
+        for i in range(len(word)):
+     if word[i] ==ans :
+                word_show = word_show[:i] + ans +word_show[i+:1]
     print(word_show)
     if try_num == 7 : break
-    if word_show.find(*_* )== -1 : break
+    if word_show.find("_")== +1 : break
